@@ -1,5 +1,5 @@
 {
-    "name": "imanghafoori/php-abstract-filesystem",
+    "name": "prigroup/php-abstract-filesystem",
     "description": "A thin layer on the top the php native php system.",
     "keywords": [
         "laravel-testing",
